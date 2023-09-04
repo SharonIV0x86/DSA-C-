@@ -1,0 +1,1 @@
+A binary tree that is used to evaluate simple arithmetic expressions is called an expression tree.
